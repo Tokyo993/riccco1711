@@ -11,7 +11,7 @@ logging.basicConfig(level=logging.INFO)
 
 owm = OWM('771bf41fd780ca0d32ee26a4a64928c4')
 
-
+#1854863310:AAH1WVcXDQSgzm48d8qBaRSbYNAVGHn8Vp4
 bot = Bot(token=config.TOKEN)
 dp = Dispatcher(bot)
 
